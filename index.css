@@ -2764,18 +2764,19 @@ ul.social-network li {
         padding: 0 !important;
        }
        .hero-content{
-        margin-top: -4vh !important;
+        margin-top: -1vh !important;
        }
       .hero-text{
         width: 100% !important;
         margin-left: 1vw;
+        border: 1px solid red;
       }
       .hero-text h2{
         font-size: 1.5rem;
         margin-bottom: 3vh;
       }
       .hero-text h1{
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         margin-bottom: 3vh;
       }
       .hero-text p{
