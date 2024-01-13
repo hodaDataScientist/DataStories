@@ -2796,7 +2796,7 @@ ul.social-network li {
         margin-bottom: 0vh;
       }
       #reight-up-3{
-        margin-top: -30vh;
+        margin-top: -35vh;
         margin-left: -1vw;
         width: 8vw;
       }
@@ -2808,11 +2808,11 @@ ul.social-network li {
      
       #middle-up-2{
         margin-left: 79vw;
-        margin-top: -1vh;
+        margin-top: -2vh;
         width: 9.5vw;
       }
       #reight-up-2{
-        margin-top: 40vh;
+        margin-top: 43vh;
         margin-left: 80vw;
         transform: rotate(0.090turn);
         width: 8vw;
@@ -2835,7 +2835,7 @@ ul.social-network li {
         display: none;
       }
       #middle-down-4{
-        margin-top: -13vh;
+        margin-top: -10vh;
         margin-left: 78vw;
         width: 9vw;
       }
@@ -2855,7 +2855,7 @@ ul.social-network li {
         height: 100%;
       }
       .s-card{
-        max-width: 350px;
+        max-width: 400px;
         height: 350px;
       }
       .s-card:hover{
@@ -3050,28 +3050,28 @@ ul.social-network li {
       width: 100%;
     }
     #data-story{
-      margin-top: -60vh;
+      margin-top: -50vh;
       margin-left: -90vw;
       width: 95%;
     }
      #write-data-story{
-      margin-top: -19vh;
-      margin-left: -95vw;
+      margin-top: -39vh;
+      margin-left: -75vw;
       width: 90%;
     }
     
     #how-write-data-story{
       position: absolute;
       width: 95%;
-      margin-left: -91%;
-      margin-top: 55vh;
+      margin-left: -61%;
+      margin-top: 35vh;
     }
     /* --My Services-- */
     .myservices{
       min-height: 210vh;
     }
     .flex-box-1{
-      width: 239px !important;
+      width: 245px !important;
       min-height: 160px !important;
       margin-bottom: 5vh !important;
       border: 8px solid rgba(57, 105, 124, 1);
@@ -3197,7 +3197,7 @@ ul.social-network li {
       }
       .footer-pad-2{
         margin-right: 1% !important;
-        margin-top: -4vh;
+        margin-top: -3vh;
         height: auto;
       }
       .links h4{
@@ -3217,7 +3217,7 @@ ul.social-network li {
         height: auto;
       }
       .social-network{
-        margin-left: 20vw !important;
+        margin-left: 18vw !important;
       }
     
 }
